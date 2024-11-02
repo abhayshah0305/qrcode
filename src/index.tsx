@@ -1,7 +1,7 @@
 import { QRCodeSVG } from "qrcode.react";
 
 export default function LandingPage() {
-  const whatsappUrl = "https://wa.me/19296847458?text=Hello%20there!%20I%20have%20a%20question%20about%20your%20services.%20Identifier:%20form%23321";
+  const whatsappUrl = "https://wa.me/19296847458?Hi%2C%20this%20is%20a%20test%20message%20Identifier:%20form%23321";
 
 
   return (
